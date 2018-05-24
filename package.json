@@ -1,0 +1,31 @@
+{
+  "name": "react-native-path-breadcrumbs",
+  "version": "1.0.0",
+  "description": "Breadcrumbs generator from a given folder path. React Native component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github:rodriguezmartin/react-native-path-breadcrumbs"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "breadcrumbs",
+    "path-breadcrumbs"
+  ],
+  "author": {
+    "name": "Rodriguez Martin",
+    "email": "dev.rodriguez.martin@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodriguezmartin/react-native-path-breadcrumbs/issues"
+  },
+  "homepage": "https://github.com/rodriguezmartin/react-native-path-breadcrumbs#readme",
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
