@@ -3,7 +3,7 @@ Breadcrumbs generator from a given folder path. React Native standalone componen
 
 ## Instalation
 ```
-npm install rodriguezmartin/react-native-path-breadcrumbs --save
+npm i react-native-path-breadcrumbs
 ``` 
 
 ## Usage
